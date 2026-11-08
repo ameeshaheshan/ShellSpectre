@@ -12,6 +12,11 @@
 [![CLI](https://img.shields.io/badge/CLI-Modern_Engine-purple?style=for-the-badge)](shellspectre.py)
 
   <br>
+
+  <p align="center">
+    <img src="https://github.com/ameeshaheshan/ShellSpectre/blob/main/src/ShellSpectre-CLI-1.png" width="977" height="601" alt="ShellSpectre">
+    <img src="https://github.com/ameeshaheshan/ShellSpectre/blob/main/src/ShellSpectre-CLI-2.png" width="977" height="601" alt="ShellSpectre">
+  </p>
   
 ## 🎯 Overview
 **ShellSpectre ⚡** is a specialized security framework designed for security researchers, sysadmins, and penetration testers to audit, detect, and analyze vulnerabilities associated with **CVE-2026-109618** and **CVE-2026-109619** (PHP core multipart parser memory corruption and state persistence flaws).
