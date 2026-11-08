@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/ameeshaheshan/ShellSpectre/"><img src="https://raw.githubusercontent.com/ameeshaheshan/ShellSpectre/main/src/banner.png)" alt="ShellSpectre" onerror="this.style.display='none'"></a><br>
+<a href="https://github.com/ameeshaheshan/ShellSpectre/"><img src="https://raw.githubusercontent.com/ameeshaheshan/ShellSpectre/main/src/banner.png" alt="ShellSpectre" onerror="this.style.display='none'"></a><br>
 
 # ⚡ ShellSpectre v2.6
 
